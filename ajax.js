@@ -1,3 +1,4 @@
+@first
 var ajax = (function () {
     var map = {}, c = 0;
     var getCallback = function (u, p) {
